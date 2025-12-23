@@ -55,7 +55,7 @@ AI-Resume-Ranker/
 Follow the steps below to run this project locally:
 
 🔹 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/AI-Resume-Ranker.git
+git clone https://github.com/Kavyaveeregowda/AI-Resume-Ranker/blob/main/README.md
 cd AI-Resume-Ranker
 
 🔹 2. Create a virtual environment
