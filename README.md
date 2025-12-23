@@ -106,8 +106,7 @@ deployment pipelines, and deep learning experience.
 
 
 Kavya V
-CSE – AI & ML
-JNNCE, Shivamogga
+CSE, Shivamogga
 
 
 
